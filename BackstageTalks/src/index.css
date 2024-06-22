@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --cyan: #00c1b5;
+  --orange: #ff651a;
+  --yellow: #ffbe00;
+  --blue: #1d3fbb;
+  --megenta: #e30512;
+}
